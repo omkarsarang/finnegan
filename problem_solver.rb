@@ -1,4 +1,8 @@
 
 class ProblemSolver
-def prob_solve
+  def prob_solve
+  end
+
+  def solve
+  end
 end
